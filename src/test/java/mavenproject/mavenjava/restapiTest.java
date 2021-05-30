@@ -9,7 +9,8 @@ public class restapiTest {
 		
 		
 		System.out.println("restapi");
-	
+		System.out.println("restapix");
+		System.out.println("restapiy");
 	}
 	@Test
 	public void restAutomation2(){
