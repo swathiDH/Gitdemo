@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-P4AG24Q" name="mavenproject.mavenjava.appiumTest" tests="6" failures="0" timestamp="4 May 2021 23:21:36 GMT" time="0.025" errors="0">
+  <testcase name="mobileAutomation" time="0.008" classname="mavenproject.mavenjava.appiumTest"/>
+  <testcase name="mobileAutomation2" time="0.0" classname="mavenproject.mavenjava.appiumTest"/>
+  <testcase name="restAutomation" time="0.0" classname="mavenproject.mavenjava.restapiTest"/>
+  <testcase name="restAutomation2" time="0.001" classname="mavenproject.mavenjava.restapiTest"/>
+  <testcase name="webAutomation" time="0.001" classname="mavenproject.mavenjava.seleniumTest"/>
+  <testcase name="webAutomation2" time="0.001" classname="mavenproject.mavenjava.seleniumTest"/>
+</testsuite>
