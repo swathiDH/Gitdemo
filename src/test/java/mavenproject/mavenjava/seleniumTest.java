@@ -19,4 +19,15 @@ public class seleniumTest {
 		
 		System.out.println("browser2");
 	}
+
+
+@Test
+
+public void webAutomation3(){
+	
+	
+	System.out.println("browser3");
 }
+
+}
+

@@ -19,4 +19,21 @@ public class restapiTest {
 		
 		System.out.println("restapi2");
 	}
+
+	@Test
+public void restAutomation3(){
+		
+		
+		
+		System.out.println("restapi3");
+	}
+	@Test
+public void restAutomation4(){
+	
+	
+	
+	System.out.println("restapi4");
 }
+}
+
+
